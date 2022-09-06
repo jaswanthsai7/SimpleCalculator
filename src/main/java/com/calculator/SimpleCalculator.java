@@ -6,4 +6,6 @@
 package com.calculator;
 
 public class SimpleCalculator{
+    private double firstNumber;
+    private double secondNumber;
 }
