@@ -6,4 +6,10 @@
 package com.calculator;
 
 public class Calculation extends SimpleCalculator {
+    public Calculation() {
+    }
+
+    public Calculation(double firstNumber, double secondNumber) {
+        super(firstNumber, secondNumber);
+    }
 }
