@@ -8,4 +8,12 @@ package com.calculator;
 public class SimpleCalculator{
     private double firstNumber;
     private double secondNumber;
+
+    public SimpleCalculator() {
+    }
+
+    public SimpleCalculator(double firstNumber, double secondNumber) {
+        this.firstNumber = firstNumber;
+        this.secondNumber = secondNumber;
+    }
 }

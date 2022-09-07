@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="added SimpleCalculator.java class">
+    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="created fields in SimpleCalculator.java class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662276355918</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created fields in SimpleCalculator.java class">
+      <created>1662475864096</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662475864096</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +152,7 @@
     <MESSAGE value="changed source and target JDK version from 18 to 11" />
     <MESSAGE value="changed the language level to 11" />
     <MESSAGE value="added SimpleCalculator.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="added SimpleCalculator.java class" />
+    <MESSAGE value="created fields in SimpleCalculator.java class" />
+    <option name="LAST_COMMIT_MESSAGE" value="created fields in SimpleCalculator.java class" />
   </component>
 </project>
