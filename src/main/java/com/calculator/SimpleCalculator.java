@@ -32,4 +32,12 @@ public class SimpleCalculator{
     public void setSecondNumber(double secondNumber) {
         this.secondNumber = secondNumber;
     }
+
+    @Override
+    public String toString() {
+        return "SimpleCalculator{" +
+                "firstNumber=" + firstNumber +
+                ", secondNumber=" + secondNumber +
+                '}';
+    }
 }
