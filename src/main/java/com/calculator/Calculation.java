@@ -5,5 +5,5 @@
  */
 package com.calculator;
 
-public class Calculation {
+public class Calculation extends SimpleCalculator {
 }
