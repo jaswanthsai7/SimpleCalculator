@@ -12,4 +12,10 @@ public class Calculation extends SimpleCalculator {
     public Calculation(double firstNumber, double secondNumber) {
         super(firstNumber, secondNumber);
     }
+
+    public double add(double firstNumber, double secondNumber) {
+        double sum;
+        sum = firstNumber + secondNumber;
+        return sum;
+    }
 }

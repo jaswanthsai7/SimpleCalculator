@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="created the getter and setter methods for the SimpleCalculator.java class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" afterDir="false" />
+    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="created constructor method for Calculation type">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +147,35 @@
       <option name="project" value="LOCAL" />
       <updated>1662556473372</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added Calculation.java class">
+      <created>1662556528408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556528408</updated>
+    </task>
+    <task id="LOCAL-00009" summary="made the Calculation class extends SimpleCalculator class">
+      <created>1662556580101</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556580101</updated>
+    </task>
+    <task id="LOCAL-00010" summary="created toString() method in SimpleCalculator.java class">
+      <created>1662556646360</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556646360</updated>
+    </task>
+    <task id="LOCAL-00011" summary="created constructor method for Calculation type">
+      <created>1662556722396</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556722396</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,7 +197,11 @@
     <MESSAGE value="created fields in SimpleCalculator.java class" />
     <MESSAGE value="created constructor methods for the SimpleCalculator.java class" />
     <MESSAGE value="created the getter and setter methods for the SimpleCalculator.java class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the getter and setter methods for the SimpleCalculator.java class" />
+    <MESSAGE value="added Calculation.java class" />
+    <MESSAGE value="made the Calculation class extends SimpleCalculator class" />
+    <MESSAGE value="created toString() method in SimpleCalculator.java class" />
+    <MESSAGE value="created constructor method for Calculation type" />
+    <option name="LAST_COMMIT_MESSAGE" value="created constructor method for Calculation type" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
