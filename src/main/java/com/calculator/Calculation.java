@@ -23,4 +23,14 @@ public class Calculation extends SimpleCalculator {
         }
         return sum;
     }
+
+    public double sub(double firstNumber, double secondNumber) {
+        double sub = 0;
+        try {
+            sub = firstNumber / secondNumber;
+        } catch (ArithmeticException exception) {
+            exception.getMessage();
+        }
+        return sub;
+    }
 }

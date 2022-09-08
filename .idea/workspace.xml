@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="created constructor method for Calculation type">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" afterDir="false" />
+    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="added try-catch block for exception handling in add() method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662556722396</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="created the add() method in Calculation.java class">
+      <created>1662556868317</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556868317</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added try-catch block for exception handling in add() method">
+      <created>1662556995413</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662556995414</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +215,9 @@
     <MESSAGE value="made the Calculation class extends SimpleCalculator class" />
     <MESSAGE value="created toString() method in SimpleCalculator.java class" />
     <MESSAGE value="created constructor method for Calculation type" />
-    <option name="LAST_COMMIT_MESSAGE" value="created constructor method for Calculation type" />
+    <MESSAGE value="created the add() method in Calculation.java class" />
+    <MESSAGE value="added try-catch block for exception handling in add() method" />
+    <option name="LAST_COMMIT_MESSAGE" value="added try-catch block for exception handling in add() method" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
