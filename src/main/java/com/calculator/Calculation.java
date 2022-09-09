@@ -15,12 +15,7 @@ public class Calculation extends SimpleCalculator {
 
     public double add(double firstNumber, double secondNumber) {
         double sum = 0;
-        try {
-
             sum = firstNumber + secondNumber;
-        } catch (ArithmeticException exception) {
-            exception.getMessage();
-        }
         return sum;
     }
 

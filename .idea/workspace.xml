@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="added try-catch block for exception handling in add() method">
+    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="created the sub() method in Calculation.java">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jasva/IdeaProjects/demo-3-list-of-students&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662556995414</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="created the sub() method in Calculation.java">
+      <created>1662641801513</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641801513</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +225,8 @@
     <MESSAGE value="created constructor method for Calculation type" />
     <MESSAGE value="created the add() method in Calculation.java class" />
     <MESSAGE value="added try-catch block for exception handling in add() method" />
-    <option name="LAST_COMMIT_MESSAGE" value="added try-catch block for exception handling in add() method" />
+    <MESSAGE value="created the sub() method in Calculation.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="created the sub() method in Calculation.java" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
