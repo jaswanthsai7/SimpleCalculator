@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="created the sub() method in Calculation.java">
+    <list default="true" id="5aa5a653-bb5e-444c-adfe-dfbd885dc2a4" name="Changes" comment="removed the try catch block for add() method in Calculation Type">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/calculator/Calculation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Java Scratch.interfaces">
+  <component name="RunManager" selected="Java Scratch.Filesinputoutput">
+    <configuration name="Demo (1)" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_49.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Demo.java" />
@@ -52,41 +60,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Splendor" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Splendor" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/TestInterface.java" />
+    <configuration name="FileWriterExample" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileWriterExample" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/FileWriterExample.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterface" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestInterface" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/TestInterface.java" />
+    <configuration name="Filesinputoutput" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Filesinputoutput" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/FileWriterExample.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tiger" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tiger" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/TestInterface.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="interfaces" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/Demo.java" />
+    <configuration name="StreamDemo" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamDemo" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/StreamDemo.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Java Scratch.interfaces" />
+        <item itemvalue="Java Scratch.Filesinputoutput" />
+        <item itemvalue="Java Scratch.FileWriterExample" />
+        <item itemvalue="Java Scratch.StreamDemo" />
         <item itemvalue="Java Scratch.Demo" />
-        <item itemvalue="Java Scratch.Tiger" />
-        <item itemvalue="Java Scratch.Splendor" />
-        <item itemvalue="Java Scratch.TestInterface" />
+        <item itemvalue="Java Scratch.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662641801513</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="removed the try catch block for add() method in Calculation Type">
+      <created>1662735586542</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662735586542</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -226,7 +234,8 @@
     <MESSAGE value="created the add() method in Calculation.java class" />
     <MESSAGE value="added try-catch block for exception handling in add() method" />
     <MESSAGE value="created the sub() method in Calculation.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="created the sub() method in Calculation.java" />
+    <MESSAGE value="removed the try catch block for add() method in Calculation Type" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed the try catch block for add() method in Calculation Type" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />

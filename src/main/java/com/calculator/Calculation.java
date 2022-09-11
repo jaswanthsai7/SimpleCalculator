@@ -28,4 +28,14 @@ public class Calculation extends SimpleCalculator {
         }
         return sub;
     }
+
+    public double mul(double firstNumber, double secondNumber) {
+        double mul = 0;
+        try {
+            mul = firstNumber * secondNumber;
+        } catch (ArithmeticException exception) {
+            exception.getMessage();
+        }
+        return mul;
+    }
 }
